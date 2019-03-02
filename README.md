@@ -6,7 +6,7 @@ IE Digital Coding challenge
 * [Description](#Description)
 * [Dependencies](#Dependencies)
 * [Output](#Output)
-* [Unit Testing](#Unit Testing)
+* [UnitTesting](#UnitTesting)
 ## Description
 
 This is a console application which is a simulation of Pacman moving on a grid. 
@@ -26,7 +26,7 @@ The project is a console application using C# and .NET framework.
 ### Output 3
 ![alt text](images/Output3.JPG)
 
-## Unit Testing
+## UnitTesting
 There are 5 test cases. All test cases are passed.
 
 ![alt text](images/UnitTesting.JPG)
