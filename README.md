@@ -1,19 +1,32 @@
-# MyShop
-My Shop eCommerce Demo Project
+# Pacman Stimulator
+IE Digital Coding challenge
 
 ## Table of Contents
 
 * [Description](#Description)
 * [Dependencies](#Dependencies)
-
+* [Output](#Output)
+* [Unit Testing](#Unit Testing)
 ## Description
 
-This project is My Shop eCommerce which I used ASP.NET to create. This web application allows users login or register to buy any items that they want. 
+This is a console application which is a simulation of Pacman moving on a grid. 
 
-The following photo is the Home page:
-
-![alt text](images/screenshot.PNG)
-
+There are some methods is created by using Test Driven Development technique.
 ## Dependencies
 
-The project is cooperated with a framework is ASP.NET, a JavaScript framework is Bootstrap and Entity Framework.
+The project is a console application using C# and .NET framework.
+
+## Output
+### Output 1
+![alt text](images/Output1.JPG)
+
+### Output 2
+![alt text](images/Output2.JPG)
+
+### Output 3
+![alt text](images/Output3.JPG)
+
+## Unit Testing
+There are 5 test cases. All test cases are passed.
+
+![alt text](images/UnitTesting.JPG)
