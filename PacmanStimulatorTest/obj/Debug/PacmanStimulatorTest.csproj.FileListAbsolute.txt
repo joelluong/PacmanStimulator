@@ -1,0 +1,17 @@
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\PacmanStimulatorTest.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\PacmanStimulatorTest.pdb
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\PacmanSimulator.exe
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\PacmanSimulator.pdb
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\PacmanSimulator.exe.config
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\obj\Debug\PacmanStimulatorTest.csprojAssemblyReference.cache
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\obj\Debug\PacmanStimulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\obj\Debug\PacmanStimulatorTest.csproj.CopyComplete
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\obj\Debug\PacmanStimulatorTest.dll
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanStimulatorTest\obj\Debug\PacmanStimulatorTest.pdb

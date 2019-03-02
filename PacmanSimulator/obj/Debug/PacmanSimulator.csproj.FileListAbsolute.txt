@@ -1,0 +1,7 @@
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.exe.config
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.exe
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.pdb
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\obj\Debug\PacmanSimulator.csprojAssemblyReference.cache
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\obj\Debug\PacmanSimulator.csproj.CoreCompileInputs.cache
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\obj\Debug\PacmanSimulator.exe
+C:\Users\JoelLuong\source\repos\PacmanSimulator\PacmanSimulator\obj\Debug\PacmanSimulator.pdb
